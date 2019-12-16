@@ -35,4 +35,4 @@
 
 First put [cleaned data](https://github.com/jetrobert/Twitter_Sentiment_Analysis-US_Airlines/tree/master/Twitter-Spark/code/dataset) to [Hive table](https://github.com/jetrobert/Twitter_Sentiment_Analysis-US_Airlines/blob/master/Twitter-Spark/code/pyspark-sentiment-analysis-with-hive.ipynb), then use ML models to classify the sentiment on [Spark Framework](https://github.com/jetrobert/Twitter_Sentiment_Analysis-US_Airlines/blob/master/Twitter-Spark/code/pyspark-sentiment-analysis-with-hive.ipynb).
 
-The Report of twitter sentiment analysis with Spark can download [here](https://github.com/jetrobert/Twitter_Sentiment_Analysis-US_Airlines/blob/master/Twitter-Spark/WQD7007-Project-Sentiment-Analysis-0.2.pdf).
+The CODE of twitter sentiment analysis with Spark can download [here](https://github.com/jetrobert/Twitter_Sentiment_Analysis-US_Airlines/tree/master/Twitter-Spark/code).
