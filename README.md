@@ -23,6 +23,7 @@
 * The biggest amount of tweets is able to be found at [Eastern Time zone](https://raw.githubusercontent.com/jetrobert/Twitter_Sentiment_Analysis-US_Airlines/master/figure/4.12-user%20timezone%20count.png), and the most common negative reason is [‘Customer Service Issue’](https://raw.githubusercontent.com/jetrobert/Twitter_Sentiment_Analysis-US_Airlines/master/figure/4.16-negative%20reason%20cross%20airline.png). Tweets of the [negative sentiment](https://raw.githubusercontent.com/jetrobert/Twitter_Sentiment_Analysis-US_Airlines/master/figure/4.17-sentiment%20across%20airline.png) dominate the amount of all tweets corpus. From the overall comparison of introduced machine learning and deep learning models, the optimal model here is <b>CNN</b> with an accuracy <b>0.775</b>, and the worst classifier is <b>KNN</b> model with only <b>0.403</b> accuracy. 
 
 <b>Model Comparison</b>
+
 ![](https://github.com/jetrobert/Twitter_Sentiment_Analysis-US_Airlines/blob/master/figure/5.4-model%20comparison.png)
 
 * The limitations of this study include the data sample, feature extraction methods and the architecture of classifier models. In the future work, the semantical feature extraction methods can be implemented to capture semantic information, and more advanced models can be applied to promote the prediction accuracy for sentiment analysis. 
