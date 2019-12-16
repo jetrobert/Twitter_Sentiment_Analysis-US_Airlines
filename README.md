@@ -1,4 +1,4 @@
-### Twitter_Sentiment_Analysis-US_Airlines
+### Twitter Sentiment Analysis for US Airlines
 
 
 * In this project, the tweets [data](https://github.com/jetrobert/Twitter_Sentiment_Analysis-US_Airlines/tree/master/data) of airlines services is used. First, the raw tweets dataset is [pre-processed](https://github.com/jetrobert/Twitter_Sentiment_Analysis-US_Airlines/blob/master/airlines_sentiment_analysis_exploring.ipynb), then the pre-processed dataset is split to training and test two parts. Before the dataset is fed to model, the text corpus needs to be extracted and transformed to numerical features with word embedding methods such as bag-of-words and TF-IDF. 
